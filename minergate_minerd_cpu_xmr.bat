@@ -1,0 +1,1 @@
+minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u labcleiton@gmail.com -p x
